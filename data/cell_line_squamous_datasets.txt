@@ -1,0 +1,15 @@
+SAMPLE_NAME	ORGAN	ANTIBODY	TYPE	SRR_NAME	NEW_NAME
+KYSE140	Lung squamous cell carcinoma (LUSC) cell lines	H3K27AC	PAIRED	SRR13637926	KYSE140_H3K27AC
+KYSE140	Lung squamous cell carcinoma (LUSC) cell lines	SOX2	PAIRED	SRR13637924	KYSE140_SOX2
+LK2_replicate1	Lung squamous cell carcinoma (LUSC) cell lines	H3K27AC	PAIRED	SRR10123276	LK2_R1_H3K27AC
+LK2_replicate2	Lung squamous cell carcinoma (LUSC) cell lines	H3K27AC	PAIRED	SRR10123277	LK2_R2_H3K27AC
+LK2_replicate1	Lung squamous cell carcinoma (LUSC) cell lines	INPUT	PAIRED	SRR10123290	LK2_R1_INPUT
+NCI-H520_replicate1	Lung squamous cell carcinoma (LUSC) cell lines	H3K27AC	PAIRED	SRR10123278	NCI-H520_R1_H3K27AC
+NCI-H520_replicate2	Lung squamous cell carcinoma (LUSC) cell lines	H3K27AC	PAIRED	SRR10123279	NCI-H520_R2_H3K27AC
+NCI-H520_replicate1	Lung squamous cell carcinoma (LUSC) cell lines	INPUT	PAIRED	SRR10123291	NCI-H520_R1_INPUT
+NCI-H520	Lung squamous cell carcinoma (LUSC) cell lines	SOX2	PAIRED	SRR10123299	NCI-H520_SOX2
+LK2	Lung squamous cell carcinoma (LUSC) cell lines	SOX2	PAIRED	SRR10123298	LK2_SOX2
+Calu-1	Lung squamous cell carcinoma (LUSC) cell lines	H3K27AC	PAIRED	SRR10123282	CALU-1_H3K27AC
+Calu-1	Lung squamous cell carcinoma (LUSC) cell lines	INPUT	PAIRED	SRR10123294	CALU-1_INPUT
+TE10	Esophageal squamous cell carcinoma (ESCC) cells	H3K27AC	SINGLE	SRR4435283	TE10_H3K27AC
+TT	Esophageal squamous cell carcinoma (ESCC) cells	H3K27AC	SINGLE	SRR4435285	TT_H3K27AC
