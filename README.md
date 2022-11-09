@@ -23,8 +23,8 @@ Many of the scripts have been adapted from those created by Alhafidz Hamdan for 
 
 ## Overview of analysis scripts:
 
-1. ```sub_permutation.sh/permutation.R```: Circular permutation test from regioneR (see https://www.bioconductor.org/packages/devel/bioc/vignettes/regioneR/inst/doc/regioneR.html)
+1. ```sub_permutation.sh/permutation.R```: Circular permutation test and local Z-score shifting from regioneR (see https://www.bioconductor.org/packages/devel/bioc/vignettes/regioneR/inst/doc/regioneR.html)
 
-2. ```sub_SOX2_SOX9_intersect.sh```: 
+2. ```sub_SOX2_SOX9_intersect.sh```: Intersect SOX2 and SOX9 peaks for GBM data and extract fasta sequences 
 
-3. ```sub_SOX2_SOX9_enhancer_intersect_alt.sh```:
+3. ```sub_SOX2_SOX9_enhancer_intersect_alt.sh```: Intersect putative SOX2/SOX9 enhancers between cell lines and cancer types and extract fasta sequences of shared and cancer-specific enhancers
