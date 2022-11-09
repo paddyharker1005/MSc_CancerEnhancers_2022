@@ -4,3 +4,9 @@ This repository contains the Eddie compute cluster submission scripts used to pr
 Many of the scripts have been adapted from those created by Alhafidz Hamdan for the analysis of SOX2/SOX9 ChIP-seq data. See https://github.com/alhafidzhamdan/SOX2_SOX9_self-renewal for these scripts.
 
 ## Overview of scripts:
+
+1. ```sub_fastqc.sh```: Raw sequence read QC (both single and paired-end reads)
+
+2. ```sub_alignment.sh``` / ```sub_alignment_BWAmem.sh```
+
+
