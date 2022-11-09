@@ -7,6 +7,6 @@ Many of the scripts have been adapted from those created by Alhafidz Hamdan for 
 
 1. ```sub_fastqc.sh```: Raw sequence read QC (both single and paired-end reads)
 
-2. ```sub_alignment.sh``` / ```sub_alignment_BWAmem.sh```
+2. ```sub_alignment.sh``` / ```sub_alignment_BWAmem.sh```: Alignment to hg38 using BWA aln (read length <70bp) or BWA mem (read length >=70bp)
 
-
+3. ```sub_bamQC.sh```: Remove multi-mapped reads and filter blacklisted regions 
